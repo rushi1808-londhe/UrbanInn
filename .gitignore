@@ -1,0 +1,9 @@
+urbaninn-backend/target/
+urbaninn-backend/.classpath
+urbaninn-backend/.project
+urbaninn-backend/.settings/
+urbaninn-backend/*.class
+urbaninn-frontend/node_modules/
+urbaninn-frontend/build/
+urbaninn-frontend/.env.local
+.DS_Store
